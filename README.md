@@ -11,7 +11,9 @@ Hardcodes default Ubuntu 15.04 kernel parameters (DEBUG_FS=Y, HIDRAW=Y)
 
 The fixed touchpad driver is here - https://github.com/SicVolo/bcm5974-4.00
 
-It also works if you are using Debian running a 4.0.0 kernel.
+It also works if you are using Debian running 4.X.X kernels.
+
+*Note*: when applying this patch, `command` and `option` keys are swapped.
 
 Installation
 ---------------------
