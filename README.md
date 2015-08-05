@@ -15,6 +15,10 @@ It also works if you are using Debian running 4.X.X kernels.
 
 *Note*: when applying this patch, `command` and `option` keys are swapped.
 
+*Update*: From 4.2.0-rc5 these patches are already available in the kernel.
+I realized that in that version of the kernel, `command` and `option` keys are
+swapped as well.
+
 Installation
 ---------------------
 
